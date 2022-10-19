@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WanyonyiKenya
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React Js
+- 🌱 I’m a React Js developer
 - 💞️ I’m looking to collaborate on webdevelopmets projects and anything to do with Javascript
 - 📫 How to reach me 1.email @wanyonyibrianke@gmail.com
 -                     2.twiiter @masafu039
