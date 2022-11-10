@@ -3,7 +3,7 @@
 - 🌱 Javascript Pioneer
 - 💞️ I’m looking to collaborate on webdevelopmets projects and anything to do with Javascript
 - 📫 1.email @wanyonyibrianke@gmail.com
--     2.twiiter @masafu039
+-    2.twiiter @masafu039
 
 <!---
 WanyonyiKenya/WanyonyiKenya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
