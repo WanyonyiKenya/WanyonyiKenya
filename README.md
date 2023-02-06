@@ -34,5 +34,5 @@
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/masafu039">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
       </div>
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+ 
 </p>
