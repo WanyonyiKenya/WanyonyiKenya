@@ -8,7 +8,9 @@
 
 - 🔭 I’m currently  freelancing
 
-- 🌱 I’m currently Working on Front-end  Web Applications(React JS, HTML, CSS and a lilttle bit of Vue Js)
+- 🤝 I have a passion for Machine Learning and Ai(Sometimes writes python)
+
+- 🌱 I’m currently Working on Front-end  Web Applications(React JS, HTML, CSS and a lilttle bit of Vue Js) and using a bit of python back-end
 
 - 🤝 I’m available for hiring, freelancing and project collaborations.
 
